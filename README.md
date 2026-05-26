@@ -32,7 +32,11 @@
 
 ## 构建方式
 
-本项目是标准 Android Studio 工程。当前仓库未包含 Gradle Wrapper，因此需要用 Android Studio 打开项目，等待它同步 Gradle 和 Android Gradle Plugin 后运行 `app` 模块。
+本项目是标准 Android Studio 工程，可以用 Android Studio 打开项目并运行 `app` 模块，也可以在 Windows 终端运行：
+
+```powershell
+.\gradlew.bat :app:assembleDebug
+```
 
 推荐环境：
 
