@@ -2,6 +2,8 @@
 
 “拉了么”是一个离线优先的 Android 记录型应用，用来记录每天如厕次数、单次时长，并支持每日定时提醒和周/月数据分析。
 
+LaLeMe is an offline-first Android tracking app for logging daily bowel movement frequency, session duration, notes, and body status. It also supports daily reminders, calendar-based history, and weekly or monthly trend summaries for personal wellness reference.
+
 ## 当前 MVP
 
 - 手动记录一次如厕，并填写本次时长和备注
